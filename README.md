@@ -43,6 +43,11 @@ Tech Stack: Algoritmos de proyección en tiempo real.
 
 Key Feature: "AI Risk Advisor" que alerta sobre posibles déficits presupuestarios o crisis de satisfacción estudiantil antes de que ocurran.
 
+Mi certificacion en Anlista de datos por CISCO.
+
+![Certificadoo](https://github.com/user-attachments/assets/15bce035-a864-4328-bab3-f0a27fe409e2)
+
+
 💻 Arquitectura Técnica
 
 "I am not just a user of technology, but an architect of efficiency."
